@@ -8,10 +8,10 @@
 
 # <div align="center">🚀 Tecnologias</div>
 <div align="center">O projeto foi desenvolvido nas seguintes tecnologias:</div>
-
-<div align="center"> * ✔️ BootStrap V4.5</div>
-<div align="center"> * ✔️ HTML</div>
-<div align="center"> * ✔️ CSS</div>
-<div align="center"> * ✔️ JavaScript</div>
-
-<div align="center">Feito por <strong>Victor Pavoni</strong> 👋 [Visite o projeto clicando aqui.](https://www.ghpf.netlify.com)</div>
+<div align="center"><ul></div>
+<div align="center"> <li>✔️ BootStrap V4.5</li></div>
+<div align="center"> <li>✔️ HTML</li></div>
+<div align="center"> <li>✔️ CSS</li></div>
+<div align="center"> <li>✔️ JavaScript</li></div>
+<div align="center"></ul></div>
+<div align="center">Feito por <strong>Victor Pavoni</strong> 👋 <a href="https://www.ghpf.netlify.com">Visite o projeto clicando aqui.</a></div>
