@@ -1,4 +1,4 @@
-# <center>Github Profile Finder :octocat:</center>
+# <div style="text-align: center">Github Profile Finder :octocat:</div>
 
 <center> ![](github/githubprofilefinderlogo.png) </center>
 
