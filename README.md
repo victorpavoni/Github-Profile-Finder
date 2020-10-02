@@ -1,4 +1,4 @@
-# :octocat: Github Profile Finder
+# Github Profile Finder :octocat: 
 
 # ![](github/githubprofilefinderlogo.png)
 
