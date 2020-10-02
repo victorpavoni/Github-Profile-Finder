@@ -4,9 +4,9 @@
 
 # ![](github/gifghpf.gif)
 
-O **Github profile finder** foi feito com o intuito de aprender mais sobre a linguagem ES6 e ajudar pessoas a encontrarem perfis no github de forma mais rapida e facil.
+<div align="center">O **Github profile finder** foi feito com o intuito de aprender mais sobre a linguagem ES6 e ajudar pessoas a encontrarem perfis no github de forma mais rapida e facil.</div>
 
-# 🚀 Tecnologias
+# <div align="center">🚀 Tecnologias</div>
 O projeto foi desenvolvido nas seguintes tecnologias:
 
 * ✔️ BootStrap V4.5
