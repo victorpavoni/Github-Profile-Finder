@@ -7,11 +7,11 @@
 # ![](github/gifghpf.gif)
 
 # <div align="center">🚀 Tecnologias</div>
-O projeto foi desenvolvido nas seguintes tecnologias:
+<div align="center">O projeto foi desenvolvido nas seguintes tecnologias:</div>
 
-* <div align="center">✔️ BootStrap V4.5</div>
-* <div align="center">✔️ HTML</div>
-* <div align="center">✔️ CSS</div>
-* <div align="center">✔️ JavaScript</div>
+<div align="center"> * ✔️ BootStrap V4.5</div>
+<div align="center"> * ✔️ HTML</div>
+<div align="center"> * ✔️ CSS</div>
+<div align="center"> * ✔️ JavaScript</div>
 
-Feito por <strong>Victor Pavoni</strong> 👋 [Visite o projeto clicando aqui.](https://www.ghpf.netlify.com)
+<div align="center">Feito por <strong>Victor Pavoni</strong> 👋 [Visite o projeto clicando aqui.](https://www.ghpf.netlify.com)</div>
