@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Github Profile Finder</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+  <script src="https://kit.fontawesome.com/84ffe3cdd8.js" crossorigin="anonymous"></script>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <style>
+    p {
+      margin-bottom: 5px !important;
+    }
+
+    @media screen and (max-width: 1200px) {
+      .card {
+        margin: 20px auto !important;
+      }
+    }
+
+    @media screen and (max-width: 768px) {
+      div.col-md-4 img {
+        margin: 0 !important;
+      }
+    }
+
+    .overlay-loading {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.7);
+      display: none;
+      z-index: 10;
+    }
+
+    #loading {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      z-index: 11;
+      display: none;
+    }
+
+    .card {
+      transition: .8s;
+    }
+
+    .card:hover {
+      box-shadow: 0px 0px 5px black;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="loading-content">
+    <div class="overlay-loading"></div>
+    <div class="text-center" id="loading">
+      <div class="spinner-border text-light" role="status">
+        <span class="sr-only">Loading...</span>
+      </div>
+    </div>
+  </div>
+  <div class="container" style="margin: 90px auto;">
+    <h1 style="text-align: center;margin: 0 auto;font-weight: 300;">Github Profile Finder <i class="fab fa-github"></i>
+    </h1>
+    <h6 class="text-center" style="margin: 0 0 70px 0;font-weight: 300;">Made by <a
+        href="https://github.com/victorpavoni" target="_blank">Victor Pavoni</a> &copy; 2020 - 2020</h6>
+    <div class="row justify-content-md-center">
+      <form style="margin: auto;">
+        <div class="input-group mb-3">
+          <i style="color: #88898a; position: relative; left: 26px;top: 15px;font-size: 12px;"
+            class="fas fa-search"></i>
+          <input style="padding-left: 30px;background-color: transparent;" type="text" class="form-control"
+            placeholder="Github username" name="gituser" aria-describedby="button-addon2">
+          <div class="input-group-append">
+            <input type="submit" name="acao" value="Procurar" class="btn btn-outline-secondary" id="button-addon2"
+              required>
+          </div>
+        </div>
+      </form>
+
+    </div>
+
+    <br>
+    <br>
+    <div id="root">
+      <div class="row" id="root-div"></div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+      integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+      crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+      integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+      crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+      integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+      crossorigin="anonymous"></script>
+    <script src="main.js" charset="utf-8"></script>
+</body>
+
+</html>
