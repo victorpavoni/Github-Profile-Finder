@@ -1,6 +1,6 @@
-# Github Profile Finder :octocat: 
+<center> # Github Profile Finder :octocat: </center>
 
-# ![](github/githubprofilefinderlogo.png)
+<center> # ![](github/githubprofilefinderlogo.png) </center>
 
 # ![](github/gifghpf.gif)
 
