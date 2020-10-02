@@ -14,4 +14,4 @@
 <div align="center"> <li>✔️ CSS</li></div>
 <div align="center"> <li>✔️ JavaScript</li></div>
 <div align="center"></ul></div>
-<div align="center">Feito por <strong>Victor Pavoni</strong> 👋 <a href="https://www.ghpf.netlify.app">Visite o projeto clicando aqui.</a></div>
+<div align="center">Feito por <strong>Victor Pavoni</strong> 👋 <a target="_blank" href="https://ghpf.netlify.app/">Visite o projeto clicando aqui.</a></div>
