@@ -2,6 +2,8 @@
 
 # ![](github/githubprofilefinderlogo.png)
 
+# ![](github/githubprofilefindergif.gif)
+
 O **Github profile finder** foi feito com o intuito de aprender mais sobre a linguagem ES6 e ajudar pessoas a encontrarem perfis no github de forma mais rapida e facil.
 
 # 🚀 Tecnologias
