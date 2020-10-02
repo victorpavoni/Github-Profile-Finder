@@ -1,5 +1,3 @@
-# <div align="center">Github Profile Finder :octocat:</div>
-
 # <div align="center">![](github/githubprofilefinderlogo.png)</div>
 
 <div align="center">O <strong>Github Profile Finder</strong> foi feito com o intuito de aprender mais sobre a linguagem ES6 e ajudar pessoas a encontrarem perfis no github de forma mais rapida e facil.</div>
